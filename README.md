@@ -18,6 +18,6 @@ The second simulation has pedestrians merge into a T-intersection.
 ## Future Improvements
 Here are some future improvements I will do if I ever come back to this project.
 - Update pedestrian cost function so that pedestrians can move to the side or behind another pedestrian.
-- Update box cost function so that pedestrains are not pushed through the box by other pedestrians.
+- Add collision detection to prevent pedestrians from phasing through other objects.
 - Update overal cost function so that pedestrians are less likely to get stuck at local minimums.
 - Stop pedestrians from moving if they reach a local/global minimum. 
